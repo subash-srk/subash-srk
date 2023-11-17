@@ -13,15 +13,15 @@
 - 💬 Ask me about **Python,Java,C**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
 <a href="https://instagram.com/subash_k_xo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="subash_k_xo" width = "100"/></a>
 <a href="https://www.hackerrank.com/subashthunder28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subashthunder28" width="100" /></a>
 <a href="https://discord.gg/DarkWiz#5493" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="DarkWiz#5493" width="100" /></a>
 <a href="https://www.linkedin.com/in/subash-k-805b2029b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn"width="100" /></a>
-</p>
-
+</div>
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
 </div>
-
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash-srk&" alt="subash-srk" /></p>
