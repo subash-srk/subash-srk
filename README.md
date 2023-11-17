@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python,Java,C**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <div align="left">
 <a href="https://instagram.com/subash_k_xo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="subash_k_xo" width = "100"/></a>
 <a href="https://www.hackerrank.com/subashthunder28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subashthunder28" width="100" /></a>
@@ -20,7 +20,8 @@
 <a href="https://www.linkedin.com/in/subash-k-805b2029b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn"width="100" /></a>
 </div>
 <br><br>
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools:
 <div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
