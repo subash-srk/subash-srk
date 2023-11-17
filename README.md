@@ -16,7 +16,8 @@
 <p align="left">
 <a href="https://instagram.com/subash_k_xo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="subash_k_xo" width = "100"/></a>
 <a href="https://www.hackerrank.com/subashthunder28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subashthunder28" height="30" width="40" /></a>
-<a href="https://discord.gg/DarkWiz#5493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DarkWiz#5493" height="30" width="40" /></a>
+<a href="https://discord.gg/DarkWiz#5493" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="DarkWiz#5493" width="100" /></a>
+<a href="https://www.linkedin.com/in/subash-k-805b2029b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn"width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
