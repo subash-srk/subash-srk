@@ -9,7 +9,7 @@
 
 
 - 📝 My Website Link [darkwizardstudios.unaux.com](darkwizardstudios.unaux.com)
-- Portfolio Site [Click Here](https://subash-srk.github.io/)
+- <a href = "https://subash-srk.github.io/">Portfolio Site [Click Here] </a>
 - 💬 Ask me about **Python,Java,C**
   <br><br>
 
