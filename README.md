@@ -43,4 +43,4 @@
 <br>
 <img align ="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 <br>
-<img align ="center" src= "https://www.pinterest.com/pin/578220039646431422/"/>
+<img align ="center" src= "https://giphy.com/gifs/theweeknd-the-weeknd-blinding-lights-ll1nscLi1mQvTRPdw9"/>
