@@ -32,7 +32,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="100">
+<img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/java.png" width="100">
+<img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/c-.png" width="100">
+<img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/java-script.png" width="100">
 </div>
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" /></p>
