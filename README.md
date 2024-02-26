@@ -37,7 +37,7 @@
 <img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/java-script.png" width="100">
 </div>
 <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash-srk&" alt="subash-srk" /></p>
 
