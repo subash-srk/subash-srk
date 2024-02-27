@@ -1,7 +1,7 @@
 ![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 <h1 align="center">Hi, I'm Subash K</h1>
 <h5 align="center">Talk Less,Code More</h5>
-<img align="right" alt="Coding" width="1500" src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/RM.gif">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash-srk&label=Profile%20views&color=0e75b6&style=flat" alt="subash-srk" /> </p>
