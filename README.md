@@ -35,6 +35,7 @@
 <img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/sql-server.png" width="100">
 <img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/java.png" width="100">
 <img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/c-.png" width="100">
+<img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/excel.png" width="100">
 <img src="https://github.com/subash-srk/subash-srk.github.io/blob/main/images/java-script.png" width="100">
 </div>
 <br><br>
