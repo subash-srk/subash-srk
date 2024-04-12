@@ -42,8 +42,8 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" width="100">
 </div>
 <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subash-srk&" alt="subash-srk" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=subash-srk&show_icons=true&locale=en" alt="subash-srk" />
 </p>
