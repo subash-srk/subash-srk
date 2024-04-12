@@ -44,9 +44,10 @@
 <br/><br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash-srk&" alt="subash-srk" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash-srk&" alt="subash-srk" /></p>
+<p></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subash-srk&show_icons=true&locale=en" alt="subash-srk" /></p>
 <br>
