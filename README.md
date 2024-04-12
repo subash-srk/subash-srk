@@ -46,9 +46,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subash-srk&" alt="subash-srk" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=subash-srk&show_icons=true&locale=en" alt="subash-srk" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subash-srk&show_icons=true&locale=en&layout=compact" alt="subash-srk" />
-  ![Subash K's GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subash-srk&theme=radical)
 </p>
 <br>
+![Subash K's GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subash-srk&theme=radical)
 <img align ="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 <br>
 <img align ="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
