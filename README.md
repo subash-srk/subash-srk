@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="130">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="110">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="130">
 <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="100">
