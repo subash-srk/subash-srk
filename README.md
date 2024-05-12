@@ -49,9 +49,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,nodejs,npm,jquery)](https://skillicons.dev)
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,nodejs,npm,jquery,git,kubernetes,docker,c,vim,python,java,c,js,html,css,mysql,nodejs,npm,jquery,git,kubernetes,docker,c,vim" width="1000"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,nodejs,npm,jquery,git,kubernetes,docker,c,vim,python,java,c,js,html,css,mysql,nodejs,npm,jquery,git,kubernetes,docker,c,vim" width="1000"/>
+
 
 
 ##  GitHub Stats:
