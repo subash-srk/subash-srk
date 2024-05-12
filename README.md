@@ -46,8 +46,9 @@
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="100">
 </div>
 <br/><br/>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br/><br/>
+
 ##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subash-srk&theme=radical&hide_border=true&include_all_commits=false&count_private=true)&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash-srk&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="350"><br/>
