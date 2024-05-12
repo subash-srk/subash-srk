@@ -49,11 +49,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,nodejs,npm,jquery)](https://skillicons.dev)
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,nodejs,npm,jquery,git,kubernetes,docker,c,vim" width="100"/>
   </a>
-</p>
+
 
 ##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subash-srk&theme=radical&hide_border=true&include_all_commits=false&count_private=true)&nbsp;
