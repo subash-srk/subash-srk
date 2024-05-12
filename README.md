@@ -33,11 +33,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="110">
-  <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" width="100">
+<img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" width="100">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="110">
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="100">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="90">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="100">
