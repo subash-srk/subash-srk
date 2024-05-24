@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="100">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="100">
 </div>
-<br/><br/>
+<br /><br />
 
 ##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subash-srk&theme=radical&hide_border=true&include_all_commits=false&count_private=true)&nbsp;
