@@ -35,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="110">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="120">
 <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="110">
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
