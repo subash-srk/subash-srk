@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi, I'm Subash K
 </h1>
-
 <h5 align="center">
   Talk Less,Code More
 </h5>
