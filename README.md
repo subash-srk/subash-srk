@@ -10,7 +10,7 @@
 
 
 - 📝 My Website Link [**Click Here**](darkwizardstudios.unaux.com)
-- 🔗 Portfolio Site <a href = "https://subash-k.web.app/">**Click Here**</a>
+- 🔗 Portfolio Site <a href = "https://subash-srk.github.io/">**Click Here**</a>
  <br><br>
 
 ## Connect with me:
