@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash-srk&label=Profile%20views&color=0e75b6&style=flat" alt="subash-srk" /> </p>
 
 
-- 📝 My Website Link [**Click Here**](darkwizardstudios.unaux.com)
+- 📝 My Website Link [**Click Here**](http://darkwizardstudios.unaux.com/)
 - 🔗 Portfolio Site <a href = "https://subash-srk.github.io/">**Click Here**</a>
  <br><br>
 
